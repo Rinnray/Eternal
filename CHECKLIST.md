@@ -21,7 +21,7 @@ Mods that have moved to NoeForged partially or fully
 - [x] [Ballistix](https://www.curseforge.com/minecraft/mc-mods/ballistix)
 - [x] [Balm](https://www.curseforge.com/minecraft/mc-mods/balm)
 - [x] [Better Compatibility Checker](https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker)
-- [x] [Beutified Chat [Server](https://www.curseforge.com/minecraft/mc-mods/beautified-chat-server) **Server**
+- [x] [Beutified Chat [Server]](https://www.curseforge.com/minecraft/mc-mods/beautified-chat-server) **Server**
 - [x] [BlueMap](https://www.curseforge.com/minecraft/mc-mods/bluemap) **Server**
 - [x] [Blue Skies](https://www.curseforge.com/minecraft/mc-mods/blue-skies)
 - [x] [Botarium](https://www.curseforge.com/minecraft/mc-mods/botarium)
