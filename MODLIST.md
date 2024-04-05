@@ -26,7 +26,7 @@
 	- Electrodynamics
 - [ ] [Balm](https://www.curseforge.com/minecraft/mc-mods/balm)
 - [ ] [Better Compatibility Checker](https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker)
-- [ ] [Beutified Chat [Server](https://www.curseforge.com/minecraft/mc-mods/beautified-chat-server) **Server**
+- [ ] [Beutified Chat [Server]](https://www.curseforge.com/minecraft/mc-mods/beautified-chat-server) **Server**
 - [ ] [BlueMap](https://www.curseforge.com/minecraft/mc-mods/bluemap) **Server**
 - [ ] [Blue Skies](https://www.curseforge.com/minecraft/mc-mods/blue-skies)
 	- Structure Gel API
