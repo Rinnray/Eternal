@@ -56,7 +56,6 @@ Mods that have moved to NoeForged partially or fully
 - [ ] [Discord Integration](https://modrinth.com/plugin/dcintegration) **Server**
 - [x] [Do a Barrel Roll](https://www.curseforge.com/minecraft/mc-mods/do-a-barrel-roll) **Optional**
 - [ ] [Doggy Talents Next](https://www.curseforge.com/minecraft/mc-mods/doggy-talents-next)
-- [x] [Double Doors](https://www.curseforge.com/minecraft/mc-mods/double-doors)
 - [x] [Dungeons Enhanced](https://www.curseforge.com/minecraft/mc-mods/dungeonsenhanced)
 - [x] [Dynamic Electricity](https://www.curseforge.com/minecraft/mc-mods/dynamic-electricity)
 
@@ -65,6 +64,7 @@ Mods that have moved to NoeForged partially or fully
 - [x] [Electrodynamics](https://www.curseforge.com/minecraft/mc-mods/electrodynamics)
 - [x] [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium) **Client**
 - [x] [Embeddium (Rubidium) Extra](https://www.curseforge.com/minecraft/mc-mods/rubidium-extra) **Client**
+- [x] [Embeddium/Rubidium Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged)
 - [x] [[EMF] Entity Model Features [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-model-features) **Client**
 - [x] [Enchanting Infuser [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge)
 - [ ] [EpheroLib](https://www.curseforge.com/minecraft/mc-mods/epherolib)
@@ -168,7 +168,6 @@ Mods that have moved to NoeForged partially or fully
 - [x] [Repurposed Structures (Neoforge/Forge)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures)
 - [x] [Resourceful Config](https://www.curseforge.com/minecraft/mc-mods/resourceful-config)
 - [x] [Resourceful Lib](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib)
-- [x] [RightClickHarvest](https://www.curseforge.com/minecraft/mc-mods/rightclickharvest)
 
 # S
 - [x] [Searchables](https://www.curseforge.com/minecraft/mc-mods/searchables) **Client**

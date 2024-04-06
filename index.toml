@@ -10,7 +10,7 @@ hash = "26824471c3f653102269b1a4c383ce07ed3eb9b7e04eaa29082f4a322701c82e"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "47f5de9200d5df60b68c123e8d12c3da62e8fd2cfee9af6ef51475536d55aba8"
+hash = "1b38847a928d920164c0a35fb2f70985484df1b61774ddc4e2fd4c41269b9be8"
 
 [[files]]
 file = "config/blue_skies-client.toml"
@@ -70,7 +70,7 @@ hash = "2951cb48c8ceb7c4ab70652af11efc6f7fdfa65237a718697c4282026cd5fa1e"
 
 [[files]]
 file = "config/iceandfire-common.toml"
-hash = "4ac38c313b04836c8164f36b208564a70a00ef69130711e2f6d69975deaf031d"
+hash = "9b11209d58b7cccef92feefa31e96ba6e97317aa0c2babad32a79a95cfdb6b97"
 
 [[files]]
 file = "config/jade/jade_plugins.json"
@@ -87,10 +87,6 @@ hash = "0849300c95b9a3948ec32a0fdbef0902cf20aec3183f9fed3ce92f88d438904a"
 [[files]]
 file = "config/quark-common.toml"
 hash = "8f340d9425d6d490e6f3b8c837d176238ac6e944568d1a1bf678732f6f38cfd5"
-
-[[files]]
-file = "config/rightclickharvest.toml"
-hash = "85dce0ae7a6e1e38ebb590e2df851036db7bcd086ca476581ed2efe3fa13ef22"
 
 [[files]]
 file = "config/sebastrnlib-client.toml"
@@ -174,6 +170,50 @@ hash = "adb20a07f21e2a5aa837c8430e526f24ab2c259e18fe2433023d2c38d8b12b28"
 
 [[files]]
 file = "defaultconfig/sereneseasons-server.toml"
+hash = "72271178bd92716a32ecc116e856e3b0d0d9b7599f18f4e193a396ff900d4553"
+
+[[files]]
+file = "defaultconfigs/ballistix.txt"
+hash = "e299c64a58c70c25e5c7a7402fa7651906429bec98ae6d3230c613b4f3f2e1b4"
+
+[[files]]
+file = "defaultconfigs/car-server.toml"
+hash = "a9716a7c6e9be3fc208e4be05e063a75ef19aab382cbeacc701c0623cbd11ba1"
+
+[[files]]
+file = "defaultconfigs/comforts-server.toml"
+hash = "406a27569ac8f908b12ea9bfe39138f55043189d9d2bbe93b0379bdaedf04e4d"
+
+[[files]]
+file = "defaultconfigs/doggytalents-server.toml"
+hash = "2d9f8256d50b4c58c7a64c52e62b6bf97a11e28d28af0ace2d060b43e787b801"
+
+[[files]]
+file = "defaultconfigs/easier_sleeping-server.toml"
+hash = "899f4335a1d5a6e49d63e092b1875b3c335843d0db21922de041badc2de70f27"
+
+[[files]]
+file = "defaultconfigs/gravestone-server.toml"
+hash = "aec44ed6792ebb2c7d1cd356d4a87e007f04b6deb07194849355856052249da8"
+
+[[files]]
+file = "defaultconfigs/jei-server.toml"
+hash = "c1ecc6198a24916f3ddbf76d8ac55083c63cd7db8e261f2890ffaac475ea39d1"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
+hash = "f774c951d1cb1e61be54fef834266f8a01b338f1da0820702389458fc749ae88"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-server.toml"
+hash = "59f35d90ff64daa39831e1f34efdb668eca1b44ff27ee38d96f415d637d9c5d3"
+
+[[files]]
+file = "defaultconfigs/securitycraft-server.toml"
+hash = "adb20a07f21e2a5aa837c8430e526f24ab2c259e18fe2433023d2c38d8b12b28"
+
+[[files]]
+file = "defaultconfigs/sereneseasons-server.toml"
 hash = "72271178bd92716a32ecc116e856e3b0d0d9b7599f18f4e193a396ff900d4553"
 
 [[files]]
@@ -416,11 +456,6 @@ hash = "709518f5195558c45d7c56d0ed415d36ee1f24dbcd43c7dc20f85079613922d5"
 metafile = true
 
 [[files]]
-file = "mods/double-doors.pw.toml"
-hash = "e3053584e1fd3ebffc79ee8c428c1dbd2de7910c0301deba64a9a8419a758fba"
-metafile = true
-
-[[files]]
 file = "mods/dungeonsenhanced.pw.toml"
 hash = "7ed550adeeb4a7a12e124d63e44ef23e24292254f312e64686df8b42827b6f18"
 metafile = true
@@ -428,6 +463,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-electricity.pw.toml"
 hash = "0d5deaff9c9f10781467fc9fd22492a4be9acf37c0deebb35b37353747dbd03e"
+metafile = true
+
+[[files]]
+file = "mods/dynamiclights-reforged.pw.toml"
+hash = "7c42037125573675148f40d1be3c2dfbbfb58065de4793828281de9cd70f0588"
 metafile = true
 
 [[files]]
@@ -818,11 +858,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "d64f9f2bec28a62c595d5be6c34bc11bd77970ddbcfc81cdafe6a4b4eabbc731"
-metafile = true
-
-[[files]]
-file = "mods/rightclickharvest.pw.toml"
-hash = "e8201b44aaafea01fb65a0ccf39ce55047b3a3dc54d90c5d43c4cd7ce23078ec"
 metafile = true
 
 [[files]]

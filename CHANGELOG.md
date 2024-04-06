@@ -1,5 +1,35 @@
 # Changelog
 
+## 4.8.1
+
+### Added
+
+- Embeddium/Rubidium Dynamic Lights
+
+### Removed
+
+- Double Doors
+- RightClickHarvest
+	- (Croptopia have that feature already)
+
+### Changed
+
+- Ice and Fire
+	- Sea serpents got a reduced chance to spawn.
+- Ballistix
+	- Reduced Antimatter radius.
+	- Reduced Antimatter duration.
+	- Reduced large Antimatter radius.
+	- Reduced large Antimatter duration.
+	- Reduced Darkmatter radius.
+	- Reduced Darkmatter duration.
+
+### Notes
+
+- There's no setting to disable Gorgon turning you to stone and from bypassing the gravestone mod. So please be sure to make a blindfold before you enter a Gorgon temple.
+
+---
+
 ## 4.8.0
 
 Started from a blank slate and I've:

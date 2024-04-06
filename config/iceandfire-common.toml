@@ -291,7 +291,7 @@
 	[Mobs.SeaSerpents]
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
-		"Spawn Sea Serpent Chance" = 400
+		"Spawn Sea Serpent Chance" = 200
 		#Whether or not sea serpents can break weak blocks in their way
 		"Sea Serpent Griefing" = false
 		#Default sea serpent health, this is scaled to the sea serpent's particular size
