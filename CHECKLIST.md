@@ -13,6 +13,8 @@ Mods that have moved to NoeForged partially or fully
 - [ ] [Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments)
 - [x] [Anvil Restoration](https://www.curseforge.com/minecraft/mc-mods/anvil-restoration)
 - [x] [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
+- [x] [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
+- [x] [Applied Energistics 2 Wireless Terminals](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals)
 - [x] [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api) **Client at the moment as only Light Overlay uses it**
 - [x] [Athena](https://www.curseforge.com/minecraft/mc-mods/athena)
 
@@ -37,6 +39,7 @@ Mods that have moved to NoeForged partially or fully
 - [x] [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) **Server**
 - [x] [Collective](https://www.curseforge.com/minecraft/mc-mods/collective)
 - [x] [Comforts (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/comforts)
+- [x] [Common Network](https://www.curseforge.com/minecraft/mc-mods/common-network)
 - [x] [Connectivity[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/connectivity)
 - [ ] [Construction Wand](https://www.curseforge.com/minecraft/mc-mods/construction-wand)
 - [x] [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) **Client**
@@ -49,6 +52,7 @@ Mods that have moved to NoeForged partially or fully
 - [x] [CreativeCore](https://www.curseforge.com/minecraft/mc-mods/creativecore)
 - [ ] [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia)
 - [x] [Cupboard](https://www.curseforge.com/minecraft/mc-mods/cupboard)
+- [x] [Curios API (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/curios)
 
 # D
 - [x] [Diagonal Fences [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/diagonal-fences)
@@ -96,6 +100,7 @@ Mods that have moved to NoeForged partially or fully
 - [x] [Hyperbox](https://www.curseforge.com/minecraft/mc-mods/hyperbox)
 
 # I
+- [x] [Icarus](https://www.curseforge.com/minecraft/mc-mods/icarus/relations/dependencies)
 - [x] [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
 - [x] [Ice and Fire: Dragonseeker](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragonseeker)
 - [x] [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
@@ -152,6 +157,7 @@ Mods that have moved to NoeForged partially or fully
 - [x] [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
 - [x] [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
 - [x] [Polymorph (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/polymorph)
+- [x] [Polymorphic Energistics](https://www.curseforge.com/minecraft/mc-mods/polymorphic-energistics)
 - [ ] [Presence Footsteps [Forge]](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge)
 - [x] [Puzzles Lib [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)
 
@@ -162,9 +168,6 @@ Mods that have moved to NoeForged partially or fully
 - [x] [Railcraft Reborn](https://www.curseforge.com/minecraft/mc-mods/railcraft-reborn)
 - [x] [Realistic Horse Genetics](https://www.curseforge.com/minecraft/mc-mods/realistic-horse-genetics)
 - [x] [Redstone Pen](https://www.curseforge.com/minecraft/mc-mods/redstone-pen)
-- [x] [Refined Polymorphism](https://www.curseforge.com/minecraft/mc-mods/refined-polymorphism)
-- [x] [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage)
-- [x] [Refined Storage Addons](https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons)
 - [x] [Repurposed Structures (Neoforge/Forge)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures)
 - [x] [Resourceful Config](https://www.curseforge.com/minecraft/mc-mods/resourceful-config)
 - [x] [Resourceful Lib](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib)
@@ -191,6 +194,7 @@ Mods that have moved to NoeForged partially or fully
 	
 # T
 - [ ] [Tab Stats](https://www.curseforge.com/minecraft/mc-mods/tab-stats)
+- [x] [Tempad](https://www.curseforge.com/minecraft/mc-mods/tempad)
 - [x] [TexTrue's Embeddium Options](https://www.curseforge.com/minecraft/mc-mods/textrues-embeddium-options) **Client**
 - [x] [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 - [ ] [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control)

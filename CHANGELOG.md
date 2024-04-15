@@ -1,5 +1,55 @@
 # Changelog
 
+## 4.8.2
+
+### Added
+
+- Tempad
+- Curios API
+- Icarus
+- Common Network
+- Applied Energistics 2
+- Applied Energistics 2 Wireless Terminals
+- Polymorphic Energistics
+
+### Removed
+
+- Refined Storage
+- Refined Storage addons
+- Refined Polymorphism
+
+### Updated
+
+- CC: Tweaked
+- Quark
+- Embeddium
+- Railcraft Reborn
+- Restone Pen
+- Create: Steam 'n' Rails
+- Amendments
+- Macaw's Bridges
+- Every Compat
+- Cooking for Blockheads
+- Realistic Horse Genetics
+- Sophisticated Backpacks
+- Zeta
+- Sophisticated Core
+- Global XP
+- Exposure
+- ForgeEndertech
+
+### Changed
+
+- Ballistix
+	- Reduced Nuclear size
+	- Reduced Nuclear duration
+	
+### Notes
+
+- Disabled channels for AE2
+
+---
+
 ## 4.8.1
 
 ### Added

@@ -1,13 +1,13 @@
 name = "Realistic Horse Genetics"
-filename = "realistic_horse_genetics-1.20.1-12.4.jar"
+filename = "realistic_horse_genetics-1.20.1-12.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d6c72e0e96e6a9b1b1f7ace6cd46f43493595f24"
+hash = "0a80cfd8a590a77b1d3138a5f6a69087af70f76a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5188049
+file-id = 5258388
 project-id = 339184

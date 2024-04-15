@@ -17,6 +17,9 @@
 - [ ] [Anvil Restoration](https://www.curseforge.com/minecraft/mc-mods/anvil-restoration)
 	- Collective
 - [ ] [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
+- [ ] [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
+- [ ] [Applied Energistics 2 Wireless Terminals](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals)
+	- Applied Energistics 2
 - [ ] [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api) **Client at the moment as only Light Overlay uses it**
 - [ ] [Athena](https://www.curseforge.com/minecraft/mc-mods/athena)
 
@@ -46,6 +49,7 @@
 - [ ] [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) **Server**
 - [ ] [Collective](https://www.curseforge.com/minecraft/mc-mods/collective)
 - [ ] [Comforts (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/comforts)
+- [ ] [Common Network](https://www.curseforge.com/minecraft/mc-mods/common-network)
 - [ ] [Connectivity[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/connectivity)
 - [ ] [Construction Wand](https://www.curseforge.com/minecraft/mc-mods/construction-wand)
 - [ ] [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) **Client**
@@ -64,6 +68,7 @@
 - [ ] [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia)
 	- EpheroLib
 - [ ] [Cupboard](https://www.curseforge.com/minecraft/mc-mods/cupboard)
+- [ ] [Curios API (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/curios)
 
 # D
 - [ ] [Diagonal Fences [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/diagonal-fences)
@@ -125,6 +130,9 @@
 - [ ] [Hyperbox](https://www.curseforge.com/minecraft/mc-mods/hyperbox)
 
 # I
+- [ ] [Icarus](https://www.curseforge.com/minecraft/mc-mods/icarus/relations/dependencies)
+	- Curios API
+	- Common Network
 - [ ] [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
 	- Citadel
 - [ ] [Ice and Fire: Dragonseeker](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragonseeker)
@@ -198,6 +206,8 @@
 - [ ] [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
 	- Patchouli
 - [ ] [Polymorph (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/polymorph)
+- [ ] [Polymorphic Energistics](https://www.curseforge.com/minecraft/mc-mods/polymorphic-energistics)
+	- Applied Energistics 2
 - [ ] [Presence Footsteps [Forge]](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge)
 - [ ] [Puzzles Lib [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)
 
@@ -209,12 +219,6 @@
 - [ ] [Railcraft Reborn](https://www.curseforge.com/minecraft/mc-mods/railcraft-reborn)
 - [ ] [Realistic Horse Genetics](https://www.curseforge.com/minecraft/mc-mods/realistic-horse-genetics)
 - [ ] [Redstone Pen](https://www.curseforge.com/minecraft/mc-mods/redstone-pen)
-- [ ] [Refined Polymorphism](https://www.curseforge.com/minecraft/mc-mods/refined-polymorphism)
-	- Refined Storage
-	- Polymorph
-- [ ] [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage)
-- [ ] [Refined Storage Addons](https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons)
-	- Refined Storage
 - [ ] [Repurposed Structures (Neoforge/Forge)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures)
 - [ ] [Resourceful Config](https://www.curseforge.com/minecraft/mc-mods/resourceful-config)
 - [ ] [Resourceful Lib](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib)
@@ -246,6 +250,9 @@
 
 # T
 - [ ] [Tab Stats](https://www.curseforge.com/minecraft/mc-mods/tab-stats)
+- [ ] [Tempad](https://www.curseforge.com/minecraft/mc-mods/tempad)
+	- Resourceful Config
+	- Resourceful Lib
 - [ ] [TexTrue's Embeddium Options](https://www.curseforge.com/minecraft/mc-mods/textrues-embeddium-options) **Client**
 - [ ] [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 - [ ] [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control)
