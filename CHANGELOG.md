@@ -1,5 +1,40 @@
 # Changelog
 
+## 4.8.3
+
+### Added
+
+- Calus API
+
+### Updated
+
+- Clumps
+- Collective
+- Icarus
+- Do a Barrel Roll
+- Almost Unified
+- CreativeCore
+- Create: Steam 'n' Rails
+- FramedBlocks
+- What Are They Up To
+- LittlePictureFrames
+- Amendments
+- Curios API
+- Searchables
+- LittleTiles
+- Every Compat
+- Moving Elevators
+- Strucutre Gel API
+- Chipped
+- Discord Integration
+
+### Changed
+
+- Icarus
+  - Lowered how much hunger it uses
+
+---
+
 ## 4.8.2
 
 ### Added

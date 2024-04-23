@@ -36,6 +36,7 @@
 - [ ] [Botarium](https://www.curseforge.com/minecraft/mc-mods/botarium)
 
 # C
+- [ ] [Caelus API (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/caelus)
 - [ ] [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on)
 - [ ] [CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
 - [ ] [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads) **Client**
@@ -103,7 +104,7 @@
 	- ZeroCore 2
 
 # F
-- [ ] [Farsight [Forge](https://www.curseforge.com/minecraft/mc-mods/farsight) **Client**, **Optional**
+- [ ] [Farsight [Forge]](https://www.curseforge.com/minecraft/mc-mods/farsight) **Client**, **Optional**
 	- Cupboard
 - [ ] [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
 	- Placebo
@@ -133,6 +134,7 @@
 - [ ] [Icarus](https://www.curseforge.com/minecraft/mc-mods/icarus/relations/dependencies)
 	- Curios API
 	- Common Network
+	- Caelus
 - [ ] [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
 	- Citadel
 - [ ] [Ice and Fire: Dragonseeker](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragonseeker)
@@ -157,7 +159,7 @@
 	- WATERMeDIA API
 - [ ] [LittleTiles](https://www.curseforge.com/minecraft/mc-mods/littletiles)
 	- CreativeCore
-- [ ] [Login Protection[Forge/Fabric](https://www.curseforge.com/minecraft/mc-mods/login-protection)
+- [ ] [Login Protection[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/login-protection)
 	- Cupboard
 
 # M

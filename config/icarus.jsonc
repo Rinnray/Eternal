@@ -1,7 +1,7 @@
 {
     "can_loop_de_loop": true,
     "armor_slows": false,
-    "can_slow_fall": false,
+    "can_slow_fall": true,
     // Type: Float
     "max_slowed_multiplier": 3.0,
     // Type: Float
@@ -9,7 +9,7 @@
     // Type: Integer
     "wings_durability": 0,
     // Type: Float
-    "exhaustion_amount": 0.05,
+    "exhaustion_amount": 0.03,
     // Type: Float
     "roll_amount": 1.0,
     // Type: Integer

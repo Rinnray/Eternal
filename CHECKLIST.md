@@ -29,6 +29,7 @@ Mods that have moved to NoeForged partially or fully
 - [x] [Botarium](https://www.curseforge.com/minecraft/mc-mods/botarium)
 
 # C
+- [x] [Caelus API (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/caelus)
 - [x] [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on)
 - [x] [CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
 - [x] [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads) **Client**
@@ -79,7 +80,7 @@ Mods that have moved to NoeForged partially or fully
 - [x] [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors)
 
 # F
-- [x] [Farsight [Forge](https://www.curseforge.com/minecraft/mc-mods/farsight) **Client**, **Optional**
+- [x] [Farsight [Forge]](https://www.curseforge.com/minecraft/mc-mods/farsight) **Client**, **Optional**
 - [x] [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
 - [x] [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
 - [x] [FerriteCore ((Neo)Forge)](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
@@ -117,7 +118,7 @@ Mods that have moved to NoeForged partially or fully
 - [x] [Light Overlay (Rift/Forge/Fabric)](https://www.curseforge.com/minecraft/mc-mods/light-overlay) **Client**
 - [x] [LittlePictureFrames](https://www.curseforge.com/minecraft/mc-mods/littleframes)
 - [x] [LittleTiles](https://www.curseforge.com/minecraft/mc-mods/littletiles)
-- [x] [Login Protection[Forge/Fabric](https://www.curseforge.com/minecraft/mc-mods/login-protection)
+- [x] [Login Protection[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/login-protection)
 
 # M
 - [ ] [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
