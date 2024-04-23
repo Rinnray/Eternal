@@ -58,7 +58,7 @@ Mods that have moved to NoeForged partially or fully
 # D
 - [x] [Diagonal Fences [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/diagonal-fences)
 - [x] [Dimensional Dungeons](https://www.curseforge.com/minecraft/mc-mods/dimensional-dungeons)
-- [ ] [Discord Integration](https://modrinth.com/plugin/dcintegration) **Server**
+- [x] [Discord Integration](https://modrinth.com/plugin/dcintegration) **Server**
 - [x] [Do a Barrel Roll](https://www.curseforge.com/minecraft/mc-mods/do-a-barrel-roll) **Optional**
 - [ ] [Doggy Talents Next](https://www.curseforge.com/minecraft/mc-mods/doggy-talents-next)
 - [x] [Dungeons Enhanced](https://www.curseforge.com/minecraft/mc-mods/dungeonsenhanced)
@@ -152,7 +152,7 @@ Mods that have moved to NoeForged partially or fully
 # P
 - [x] [Paintings with Dragons](https://www.curseforge.com/minecraft/mc-mods/paintings-with-dragons)
 - [x] [Paintings++](https://www.curseforge.com/minecraft/mc-mods/paintings)
-- [ ] [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
+- [x] [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
 - [x] [Path Under Gates](https://www.curseforge.com/minecraft/mc-mods/path-under-gates)
 - [x] [Pipez](https://www.curseforge.com/minecraft/mc-mods/pipez)
 - [x] [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
@@ -198,7 +198,7 @@ Mods that have moved to NoeForged partially or fully
 - [x] [Tempad](https://www.curseforge.com/minecraft/mc-mods/tempad)
 - [x] [TexTrue's Embeddium Options](https://www.curseforge.com/minecraft/mc-mods/textrues-embeddium-options) **Client**
 - [x] [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
-- [ ] [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control)
+- [x] [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control)
 - [ ] [Too Fast](https://www.curseforge.com/minecraft/mc-mods/too-fast) **Server**
 - [x] [Transparent](https://www.curseforge.com/minecraft/mc-mods/transparent)
 - [x] [Tree Harvester](https://www.curseforge.com/minecraft/mc-mods/tree-harvester)
