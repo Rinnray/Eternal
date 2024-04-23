@@ -1,7 +1,7 @@
 {
     "can_loop_de_loop": true,
     "armor_slows": false,
-    "can_slow_fall": true,
+    "can_slow_fall": false,
     // Type: Float
     "max_slowed_multiplier": 3.0,
     // Type: Float

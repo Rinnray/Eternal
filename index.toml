@@ -70,7 +70,7 @@ hash = "4a4b418e0e5c4f752cea5d5c19e1f407c267e8f6f7b91c2f7640840e076a264d"
 
 [[files]]
 file = "config/icarus.jsonc"
-hash = "69b9cec0bc231c572d63900afc55b63d127817dfc18984123a48fef719da0229"
+hash = "d44e83280abda9f8161f3c27d2ba5b0469647a582b98cc5ff42c8b31fe3ee51e"
 
 [[files]]
 file = "config/iceandfire-client.toml"
