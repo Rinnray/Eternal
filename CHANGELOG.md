@@ -1,5 +1,43 @@
 # Changelog
 
+## 4.8.4
+
+### Updated
+
+- NeoForged
+
+- Every Compat
+- Sophisticated Backpacks
+- Curios API
+- WATERMeDIA
+- Chat Heads
+- Sophisticated Core
+- LittleTiles
+- CC: Tweaked
+- Embeddium Extras
+- Oculus
+- Embeddium
+- Moonlight Lib
+- Amendments
+- Icarus
+- Collective
+- PneumaticCraft
+- LittlePictureFrames
+- Forgematica
+- Not Enough Animations
+- MaFgLib
+- 3D Skin Layers
+
+### Removed
+
+- TexTrue's Embeddium Options (Not needed anymore)
+
+### Notes
+
+- If you have Oculus enabled and you crash when you join the server; then you're gonna have to disable it for now. As there's currently something going on between that and Little Tiles mod.
+
+---
+
 ## 4.8.3
 
 ### Added

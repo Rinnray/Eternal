@@ -255,7 +255,6 @@
 - [ ] [Tempad](https://www.curseforge.com/minecraft/mc-mods/tempad)
 	- Resourceful Config
 	- Resourceful Lib
-- [ ] [TexTrue's Embeddium Options](https://www.curseforge.com/minecraft/mc-mods/textrues-embeddium-options) **Client**
 - [ ] [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 - [ ] [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control)
 - [ ] [Too Fast](https://www.curseforge.com/minecraft/mc-mods/too-fast) **Server**

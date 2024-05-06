@@ -196,7 +196,6 @@ Mods that have moved to NoeForged partially or fully
 # T
 - [ ] [Tab Stats](https://www.curseforge.com/minecraft/mc-mods/tab-stats)
 - [x] [Tempad](https://www.curseforge.com/minecraft/mc-mods/tempad)
-- [x] [TexTrue's Embeddium Options](https://www.curseforge.com/minecraft/mc-mods/textrues-embeddium-options) **Client**
 - [x] [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 - [x] [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control)
 - [ ] [Too Fast](https://www.curseforge.com/minecraft/mc-mods/too-fast) **Server**

@@ -1,13 +1,13 @@
 name = "LittleTiles"
-filename = "LittleTiles_BETA_v1.6.0-pre102_mc1.20.1.jar"
+filename = "LittleTiles_BETA_v1.6.0-pre103_mc1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "eef75ff31e9697cb033d53e14d6944d1ab5dba4c"
+hash = "50e4442a5303661f5c5635ec26ed3f6729b737db"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5284538
+file-id = 5294103
 project-id = 257818
