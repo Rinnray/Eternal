@@ -1,0 +1,13 @@
+name = "Stylecolonies"
+filename = "stylecolonies-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9b4f7c531a37cf269fd2023b3afa376bb7243ecb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5283070
+project-id = 827507

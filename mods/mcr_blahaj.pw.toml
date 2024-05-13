@@ -1,0 +1,13 @@
+name = "Blahaj Expanded"
+filename = "blahaj-forge+1.20.1-0.6.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/faitfqhg/versions/AAMKvXNn/blahaj-forge%2B1.20.1-0.6.2.jar"
+hash-format = "sha1"
+hash = "3e149894b4b139addfa136b935873d61228bbb4a"
+
+[update]
+[update.modrinth]
+mod-id = "faitfqhg"
+version = "AAMKvXNn"

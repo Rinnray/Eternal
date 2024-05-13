@@ -17,11 +17,9 @@
 - [ ] [Anvil Restoration](https://www.curseforge.com/minecraft/mc-mods/anvil-restoration)
 	- Collective
 - [ ] [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
-- [ ] [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
-- [ ] [Applied Energistics 2 Wireless Terminals](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals)
-	- Applied Energistics 2
 - [ ] [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api) **Client at the moment as only Light Overlay uses it**
 - [ ] [Athena](https://www.curseforge.com/minecraft/mc-mods/athena)
+- [ ] [Aquaculture 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
 
 # B
 - [ ] [Bad Wither No Cookie - Reloaded](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded) **Client**
@@ -30,6 +28,8 @@
 - [ ] [Balm](https://www.curseforge.com/minecraft/mc-mods/balm)
 - [ ] [Better Compatibility Checker](https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker)
 - [ ] [Beutified Chat [Server]](https://www.curseforge.com/minecraft/mc-mods/beautified-chat-server) **Server**
+- [ ] [Blahaj Expanded](https://modrinth.com/mod/mcr_blahaj)
+- [ ] [BlockUI](https://www.curseforge.com/minecraft/mc-mods/blockui)
 - [ ] [BlueMap](https://www.curseforge.com/minecraft/mc-mods/bluemap) **Server**
 - [ ] [Blue Skies](https://www.curseforge.com/minecraft/mc-mods/blue-skies)
 	- Structure Gel API
@@ -66,18 +66,23 @@
 - [ ] [Create: Steam 'n' Rails](https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails)
 	- Create
 - [ ] [CreativeCore](https://www.curseforge.com/minecraft/mc-mods/creativecore)
+- [ ] [Creative Wireless Transmitter](https://www.curseforge.com/minecraft/mc-mods/creative-wireless-transmitter)
+	- Refined Storage
 - [ ] [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia)
 	- EpheroLib
 - [ ] [Cupboard](https://www.curseforge.com/minecraft/mc-mods/cupboard)
 - [ ] [Curios API (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/curios)
 
 # D
+- [ ] [Death Backup](https://www.curseforge.com/minecraft/mc-mods/death-backup)
+	- Collective
 - [ ] [Diagonal Fences [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/diagonal-fences)
 	- Puzzles Lib
 - [ ] [Dimensional Dungeons](https://www.curseforge.com/minecraft/mc-mods/dimensional-dungeons)
 - [ ] [Discord Integration](https://modrinth.com/plugin/dcintegration) **Server**
 - [ ] [Do a Barrel Roll](https://www.curseforge.com/minecraft/mc-mods/do-a-barrel-roll) **Optional**
 - [ ] [Doggy Talents Next](https://www.curseforge.com/minecraft/mc-mods/doggy-talents-next)
+- [ ] [Domum Ornamentum](https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum)
 - [ ] [Dungeons Enhanced](https://www.curseforge.com/minecraft/mc-mods/dungeonsenhanced)
 	- Structure Gel
 - [ ] [Dynamic Electricity](https://www.curseforge.com/minecraft/mc-mods/dynamic-electricity)
@@ -175,6 +180,12 @@
 - [ ] [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
 - [ ] [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)
 	- Mekanism
+- [ ] [MineColonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies)
+	- BlockUI
+	- Domum Ornamentum
+	- Multi-Piston
+	- Structurize
+	- TownTalk
 - [ ] [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix) **Client**
 - [ ] [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix)
 - [ ] [Modular Force Field Systems (MFFS)](https://www.curseforge.com/minecraft/mc-mods/mffs)
@@ -183,6 +194,8 @@
 - [ ] [Moving Elevators](https://www.curseforge.com/minecraft/mc-mods/moving-elevators)
 	- SuperMartijn642's Core Lib
 	- SuperMartijn642's Config Lib
+- [ ] [Multi-Piston](https://www.curseforge.com/minecraft/mc-mods/multi-piston)
+	- BlockUI
 
 # N
 - [ ] [Neruina - Ticking Entity Fixer](https://www.curseforge.com/minecraft/mc-mods/neruina)
@@ -208,8 +221,6 @@
 - [ ] [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
 	- Patchouli
 - [ ] [Polymorph (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/polymorph)
-- [ ] [Polymorphic Energistics](https://www.curseforge.com/minecraft/mc-mods/polymorphic-energistics)
-	- Applied Energistics 2
 - [ ] [Presence Footsteps [Forge]](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge)
 - [ ] [Puzzles Lib [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)
 
@@ -220,7 +231,14 @@
 # R
 - [ ] [Railcraft Reborn](https://www.curseforge.com/minecraft/mc-mods/railcraft-reborn)
 - [ ] [Realistic Horse Genetics](https://www.curseforge.com/minecraft/mc-mods/realistic-horse-genetics)
+- [ ] [Reborn Storage](https://www.curseforge.com/minecraft/mc-mods/rebornstorage)
+	- Refined Storage
 - [ ] [Redstone Pen](https://www.curseforge.com/minecraft/mc-mods/redstone-pen)
+- [ ] [Refined Polymorphism](https://www.curseforge.com/minecraft/mc-mods/refined-polymorphism)
+	- Refined Storage
+- [ ] [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage)
+- [ ] [Refined Storage Addons](https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons)
+	- Refined Storage
 - [ ] [Repurposed Structures (Neoforge/Forge)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures)
 - [ ] [Resourceful Config](https://www.curseforge.com/minecraft/mc-mods/resourceful-config)
 - [ ] [Resourceful Lib](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib)
@@ -243,7 +261,12 @@
 - [ ] [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)
 - [ ] [Straw Statues [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/straw-statues)
 	- Puzzles Lib
+- [ ] [Structurize](https://www.curseforge.com/minecraft/mc-mods/structurize)
+	- BlockUI
+	- Domum Ornamentum
 - [ ] [Structure Gel API](https://www.curseforge.com/minecraft/mc-mods/structure-gel-api)
+- [ ] [Stylecolonies](https://www.curseforge.com/minecraft/mc-mods/stylecolonies)
+	- MineColonies
 - [ ] [SuperMartijn642's Config Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib)
 - [ ] [SuperMartijn642's Core Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)
 - [ ] [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
@@ -257,7 +280,10 @@
 	- Resourceful Lib
 - [ ] [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 - [ ] [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control)
+- [ ] [Tom's Simple Storage Mod](https://www.curseforge.com/minecraft/mc-mods/toms-storage)
 - [ ] [Too Fast](https://www.curseforge.com/minecraft/mc-mods/too-fast) **Server**
+- [ ] [TownTalk](https://www.curseforge.com/minecraft/mc-mods/towntalk)
+	- MineColonies
 - [ ] [Transparent](https://www.curseforge.com/minecraft/mc-mods/transparent)
 - [ ] [Tree Harvester](https://www.curseforge.com/minecraft/mc-mods/tree-harvester)
 	- Collective

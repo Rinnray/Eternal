@@ -1,5 +1,64 @@
 # Changelog
 
+## 4.9.0
+
+### Updated
+
+- Icarus
+- Collective
+- Puzzles Lib
+- Create: Steam 'n' Rails
+- Do a Barrel Roll
+- Supplementaries
+- Login Protection
+- Exposure
+- Embeddium
+- Mouse Tweaks
+- Sohpisticated Core
+- Jade
+- Amendments
+- Discord Integration
+
+### Added
+
+- Aquaculture 2
+- Blahaj Expanded
+- Death Backup
+- Tom's Simple Storage Mod
+
+- MineColonies
+- TownTalk
+- BlockUI
+- Domum Ornamentum
+- Multi-Piston
+- Structurize
+- Stylecononies
+- Refined Storage
+- Refined Storage Addons
+- Creative Wireless Transmission
+- Reborn Storage
+- Refined Polymorpism
+
+### Removed
+
+- Polymorphic Energistics
+- Applied Energistics 2
+- Applied Energistics 2 Wireless Terminals
+
+### Changed
+
+- Tempad
+  - Reduced the amount of power it uses, for both normal and advanced.
+  - Increased the amount of power it stores, for both normal and advanced.
+
+### Notes
+
+- With Death Backups, hopefully all your items *should* be safe even if the gravestone mod messes up!
+- If you haven't already noticed with other mods, sometimes some items have the same crafting recipe. In a normal crafting table you're able to press a button and choose another item, but that button does not appear everywhere. Tom's Simple Storage and QIO From Mekanism is one example.
+- We now have 3 different ways of storage, Tom's simple storage I'm thinking is a nice early game (Except infitive wireless as it requires a beacon in different levels), Refined storage for a nice mid, then QIO from Mekanism is a more awesome end type of deal.
+
+---
+
 ## 4.8.4
 
 ### Updated

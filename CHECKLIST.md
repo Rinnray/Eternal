@@ -13,10 +13,9 @@ Mods that have moved to NoeForged partially or fully
 - [ ] [Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments)
 - [x] [Anvil Restoration](https://www.curseforge.com/minecraft/mc-mods/anvil-restoration)
 - [x] [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
-- [x] [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
-- [x] [Applied Energistics 2 Wireless Terminals](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals)
 - [x] [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api) **Client at the moment as only Light Overlay uses it**
 - [x] [Athena](https://www.curseforge.com/minecraft/mc-mods/athena)
+- [x] [Aquaculutre 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
 
 ## B
 - [x] [Bad Wither No Cookie - Reloaded](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded) **Client**
@@ -24,6 +23,8 @@ Mods that have moved to NoeForged partially or fully
 - [x] [Balm](https://www.curseforge.com/minecraft/mc-mods/balm)
 - [x] [Better Compatibility Checker](https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker)
 - [x] [Beutified Chat [Server]](https://www.curseforge.com/minecraft/mc-mods/beautified-chat-server) **Server**
+- [x] [Blahaj Expanded](https://modrinth.com/mod/mcr_blahaj)
+- [x] [BlockUI](https://www.curseforge.com/minecraft/mc-mods/blockui)
 - [x] [BlueMap](https://www.curseforge.com/minecraft/mc-mods/bluemap) **Server**
 - [x] [Blue Skies](https://www.curseforge.com/minecraft/mc-mods/blue-skies)
 - [x] [Botarium](https://www.curseforge.com/minecraft/mc-mods/botarium)
@@ -51,16 +52,19 @@ Mods that have moved to NoeForged partially or fully
 - [x] [Create: Misc & Things](https://www.curseforge.com/minecraft/mc-mods/create-misc-and-things)
 - [x] [Create: Steam 'n' Rails](https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails)
 - [x] [CreativeCore](https://www.curseforge.com/minecraft/mc-mods/creativecore)
+- [x] [Creative Wireless Transmitter](https://www.curseforge.com/minecraft/mc-mods/creative-wireless-transmitter)
 - [ ] [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia)
 - [x] [Cupboard](https://www.curseforge.com/minecraft/mc-mods/cupboard)
 - [x] [Curios API (Forge/NeoForge)](https://www.curseforge.com/minecraft/mc-mods/curios)
 
 # D
+- [x] [Death Backup](https://www.curseforge.com/minecraft/mc-mods/death-backup)
 - [x] [Diagonal Fences [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/diagonal-fences)
 - [x] [Dimensional Dungeons](https://www.curseforge.com/minecraft/mc-mods/dimensional-dungeons)
 - [x] [Discord Integration](https://modrinth.com/plugin/dcintegration) **Server**
 - [x] [Do a Barrel Roll](https://www.curseforge.com/minecraft/mc-mods/do-a-barrel-roll) **Optional**
 - [ ] [Doggy Talents Next](https://www.curseforge.com/minecraft/mc-mods/doggy-talents-next)
+- [x] [Domum Ornamentum](https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum)
 - [x] [Dungeons Enhanced](https://www.curseforge.com/minecraft/mc-mods/dungeonsenhanced)
 - [x] [Dynamic Electricity](https://www.curseforge.com/minecraft/mc-mods/dynamic-electricity)
 
@@ -132,12 +136,14 @@ Mods that have moved to NoeForged partially or fully
 - [x] [MaFgLib](https://modrinth.com/mod/mafglib) **Client**, **Required if Forgematica is enabled**
 - [x] [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
 - [x] [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)
+- [ ] [MineColonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies)
 - [x] [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix) **Client**
 - [x] [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix)
 - [x] [Modular Force Field Systems (MFFS)](https://www.curseforge.com/minecraft/mc-mods/mffs)
 - [x] [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/selene)
 - [x] [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) **Client**
 - [x] [Moving Elevators](https://www.curseforge.com/minecraft/mc-mods/moving-elevators)
+- [x] [Multi-Piston](https://www.curseforge.com/minecraft/mc-mods/multi-piston)
 
 # N
 - [x] [Neruina - Ticking Entity Fixer](https://www.curseforge.com/minecraft/mc-mods/neruina)
@@ -158,7 +164,6 @@ Mods that have moved to NoeForged partially or fully
 - [x] [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
 - [x] [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
 - [x] [Polymorph (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/polymorph)
-- [x] [Polymorphic Energistics](https://www.curseforge.com/minecraft/mc-mods/polymorphic-energistics)
 - [ ] [Presence Footsteps [Forge]](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge)
 - [x] [Puzzles Lib [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)
 
@@ -168,7 +173,11 @@ Mods that have moved to NoeForged partially or fully
 # R
 - [x] [Railcraft Reborn](https://www.curseforge.com/minecraft/mc-mods/railcraft-reborn)
 - [x] [Realistic Horse Genetics](https://www.curseforge.com/minecraft/mc-mods/realistic-horse-genetics)
+- [x] [Reborn Storage](https://www.curseforge.com/minecraft/mc-mods/rebornstorage)
 - [x] [Redstone Pen](https://www.curseforge.com/minecraft/mc-mods/redstone-pen)
+- [x] [Refined Polymorphism](https://www.curseforge.com/minecraft/mc-mods/refined-polymorphism)
+- [x] [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage)
+- [x] [Refined Storage Addons](https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons)
 - [x] [Repurposed Structures (Neoforge/Forge)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures)
 - [x] [Resourceful Config](https://www.curseforge.com/minecraft/mc-mods/resourceful-config)
 - [x] [Resourceful Lib](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib)
@@ -187,7 +196,9 @@ Mods that have moved to NoeForged partially or fully
 - [x] [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)
 - [x] [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)
 - [x] [Straw Statues [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/straw-statues)
+- [x] [Structurize](https://www.curseforge.com/minecraft/mc-mods/structurize)
 - [x] [Structure Gel API](https://www.curseforge.com/minecraft/mc-mods/structure-gel-api)
+- [x] [Stylecolonies](https://www.curseforge.com/minecraft/mc-mods/stylecolonies)
 - [x] [SuperMartijn642's Config Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib)
 - [x] [SuperMartijn642's Core Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)
 - [x] [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
@@ -198,7 +209,9 @@ Mods that have moved to NoeForged partially or fully
 - [x] [Tempad](https://www.curseforge.com/minecraft/mc-mods/tempad)
 - [x] [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 - [x] [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control)
+- [x] [Tom's Simple Storage Mod](https://www.curseforge.com/minecraft/mc-mods/toms-storage)
 - [ ] [Too Fast](https://www.curseforge.com/minecraft/mc-mods/too-fast) **Server**
+- [ ] [TownTalk](https://www.curseforge.com/minecraft/mc-mods/towntalk)
 - [x] [Transparent](https://www.curseforge.com/minecraft/mc-mods/transparent)
 - [x] [Tree Harvester](https://www.curseforge.com/minecraft/mc-mods/tree-harvester)
 
@@ -211,7 +224,7 @@ Mods that have moved to NoeForged partially or fully
 - [x] [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
 - [x] [What Are They Up To (Watnut)](https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to)
 - [x] [WI Zoom](https://www.curseforge.com/minecraft/mc-mods/wi-zoom)
-- [ ] [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
+- [x] [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
 
 # X
 - [x] [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
