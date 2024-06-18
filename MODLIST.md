@@ -251,7 +251,7 @@
   - Sophisticated Core
 - [ ] [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)
 - [ ] [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)
-- [ ] [Starter Kit](https://www.curseforge.com/minecraft/mc-mods/starter-kit)
+- [ ] [Starter Kit](https://www.curseforge.com/minecraft/mc-mods/starter-kit) **Server**
 	- Collective
 - [ ] [Straw Statues [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/straw-statues)
 	- Puzzles Lib
@@ -274,7 +274,6 @@
 	- Resourceful Lib
 - [ ] [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 - [ ] [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control)
-- [ ] [Tom's Simple Storage Mod](https://www.curseforge.com/minecraft/mc-mods/toms-storage)
 - [ ] [Too Fast](https://www.curseforge.com/minecraft/mc-mods/too-fast) **Server**
 - [ ] [TownTalk](https://www.curseforge.com/minecraft/mc-mods/towntalk)
 	- MineColonies

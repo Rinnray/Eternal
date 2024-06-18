@@ -967,7 +967,7 @@ metafile = true
 
 [[files]]
 file = "mods/starter-kit.pw.toml"
-hash = "202bd312c9bd8c7c0614d57ad634bab563daf11dee7e1a8df9c86d35676022ee"
+hash = "b0e81c331253bca8f09f5f18257c80929278a888bafb5484c39ac1df2995903b"
 metafile = true
 
 [[files]]
@@ -1028,11 +1028,6 @@ metafile = true
 [[files]]
 file = "mods/toast-control.pw.toml"
 hash = "1195cdfa90ac4ef4d5ebed8dbca1df990cf58b0a0fe3b9b965ccefa0cfd5a2e3"
-metafile = true
-
-[[files]]
-file = "mods/toms-storage.pw.toml"
-hash = "03a75c21f9f75a904e0dc846e73b6747735432d96a7b8aa9fb7177116df252e2"
 metafile = true
 
 [[files]]

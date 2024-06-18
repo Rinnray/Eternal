@@ -17,7 +17,6 @@
 - Zeta
 - Icarus
 - MineColonies
-- Tom's Simple Storage Mod
 - Macaw's paths and Pavings
 - CC: Tweaked
 - Curios API
@@ -60,6 +59,7 @@
 - Entity Model Features
 - Entity Texture Features
 - BlueMap (Temp)
+- Tom's Simple Storage Mod
 
 ---
 

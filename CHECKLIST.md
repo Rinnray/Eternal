@@ -189,7 +189,7 @@ Mods that have moved to NoeForged partially or fully
 - [x] [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
 - [x] [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)
 - [x] [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)
-- [x] [Starter Kit](https://www.curseforge.com/minecraft/mc-mods/starter-kit)
+- [x] [Starter Kit](https://www.curseforge.com/minecraft/mc-mods/starter-kit) **Server**
 - [x] [Straw Statues [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/straw-statues)
 - [x] [Structurize](https://www.curseforge.com/minecraft/mc-mods/structurize)
 - [x] [Structure Gel API](https://www.curseforge.com/minecraft/mc-mods/structure-gel-api)
@@ -204,7 +204,6 @@ Mods that have moved to NoeForged partially or fully
 - [x] [Tempad](https://www.curseforge.com/minecraft/mc-mods/tempad)
 - [x] [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 - [x] [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control)
-- [x] [Tom's Simple Storage Mod](https://www.curseforge.com/minecraft/mc-mods/toms-storage)
 - [ ] [Too Fast](https://www.curseforge.com/minecraft/mc-mods/too-fast) **Server**
 - [ ] [TownTalk](https://www.curseforge.com/minecraft/mc-mods/towntalk)
 - [x] [Transparent](https://www.curseforge.com/minecraft/mc-mods/transparent)
