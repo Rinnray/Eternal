@@ -22,6 +22,7 @@ Mods that have moved to NoeForged partially or fully
 - [x] [Balm](https://www.curseforge.com/minecraft/mc-mods/balm)
 - [x] [Better Compatibility Checker](https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker)
 - [x] [Beutified Chat [Server]](https://www.curseforge.com/minecraft/mc-mods/beautified-chat-server) **Server**
+- [x] [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
 - [x] [Blahaj Expanded](https://modrinth.com/mod/mcr_blahaj)
 - [x] [BlockUI](https://www.curseforge.com/minecraft/mc-mods/blockui)
 - [x] [Blue Skies](https://www.curseforge.com/minecraft/mc-mods/blue-skies)
@@ -202,6 +203,7 @@ Mods that have moved to NoeForged partially or fully
 # T
 - [ ] [Tab Stats](https://www.curseforge.com/minecraft/mc-mods/tab-stats)
 - [x] [Tempad](https://www.curseforge.com/minecraft/mc-mods/tempad)
+- [x] [TerraBlender](https://www.curseforge.com/minecraft/mc-mods/terrablender)
 - [x] [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 - [x] [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control)
 - [ ] [Too Fast](https://www.curseforge.com/minecraft/mc-mods/too-fast) **Server**

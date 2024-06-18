@@ -27,6 +27,8 @@
 - [ ] [Balm](https://www.curseforge.com/minecraft/mc-mods/balm)
 - [ ] [Better Compatibility Checker](https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker)
 - [ ] [Beutified Chat [Server]](https://www.curseforge.com/minecraft/mc-mods/beautified-chat-server) **Server**
+- [ ] [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
+	- TerraBlender
 - [ ] [Blahaj Expanded](https://modrinth.com/mod/mcr_blahaj)
 - [ ] [BlockUI](https://www.curseforge.com/minecraft/mc-mods/blockui)
 - [ ] [Blue Skies](https://www.curseforge.com/minecraft/mc-mods/blue-skies)
@@ -272,6 +274,7 @@
 - [ ] [Tempad](https://www.curseforge.com/minecraft/mc-mods/tempad)
 	- Resourceful Config
 	- Resourceful Lib
+- [ ] [TerraBlender](https://www.curseforge.com/minecraft/mc-mods/terrablender)
 - [ ] [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 - [ ] [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control)
 - [ ] [Too Fast](https://www.curseforge.com/minecraft/mc-mods/too-fast) **Server**

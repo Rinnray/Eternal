@@ -306,6 +306,11 @@ hash = "c6db833d0e18e389bba8ce929f3caee7f45215c102ac85c481ca8c721008f8b3"
 metafile = true
 
 [[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "b0119b17c7c9a075780d55dc87749942a835365db5578102d6250db8875e8267"
+metafile = true
+
+[[files]]
 file = "mods/blockui.pw.toml"
 hash = "858d148713ff16c7a8f554b2b8e100fb04257da00c44757646a0dc0c8b3ae32f"
 metafile = true
@@ -1018,6 +1023,11 @@ metafile = true
 [[files]]
 file = "mods/tempad.pw.toml"
 hash = "4453118c42c3364c51e577fbcc16e2ae5e85069902eee545cfa8db534e2f2d21"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "570d8ea67256d5fdcbba9504cb77c49dac326c1116d84e3c48ae5a6113fdf8a7"
 metafile = true
 
 [[files]]

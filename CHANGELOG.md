@@ -50,6 +50,8 @@
 ### Added
 
 - Starter Kit
+- Biomes o' Plenty
+- TerraBlender
 
 ### Removed
 
