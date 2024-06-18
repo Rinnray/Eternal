@@ -1,16 +1,16 @@
 name = "Forgematica"
-filename = "Forgematica-0.1.4-mc1.20.1.jar"
+filename = "Forgematica-0.1.5-mc1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/dCKRaeBC/versions/sjZmzfbr/Forgematica-0.1.4-mc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/dCKRaeBC/versions/ugidQIT1/Forgematica-0.1.5-mc1.20.1.jar"
 hash-format = "sha1"
-hash = "34b26ff345ee98f44ce6d16382adbf5534b8b86d"
+hash = "56c93a57b913168773d861c2ddd2a9ff41285087"
 
 [update]
 [update.modrinth]
 mod-id = "dCKRaeBC"
-version = "sjZmzfbr"
+version = "ugidQIT1"
 
 [option]
 optional = true

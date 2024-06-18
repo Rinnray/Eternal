@@ -15,7 +15,6 @@ Mods that have moved to NoeForged partially or fully
 - [x] [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
 - [x] [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api) **Client at the moment as only Light Overlay uses it**
 - [x] [Athena](https://www.curseforge.com/minecraft/mc-mods/athena)
-- [x] [Aquaculutre 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
 
 ## B
 - [x] [Bad Wither No Cookie - Reloaded](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded) **Client**
@@ -25,7 +24,6 @@ Mods that have moved to NoeForged partially or fully
 - [x] [Beutified Chat [Server]](https://www.curseforge.com/minecraft/mc-mods/beautified-chat-server) **Server**
 - [x] [Blahaj Expanded](https://modrinth.com/mod/mcr_blahaj)
 - [x] [BlockUI](https://www.curseforge.com/minecraft/mc-mods/blockui)
-- [x] [BlueMap](https://www.curseforge.com/minecraft/mc-mods/bluemap) **Server**
 - [x] [Blue Skies](https://www.curseforge.com/minecraft/mc-mods/blue-skies)
 - [x] [Botarium](https://www.curseforge.com/minecraft/mc-mods/botarium)
 
@@ -63,7 +61,7 @@ Mods that have moved to NoeForged partially or fully
 - [x] [Dimensional Dungeons](https://www.curseforge.com/minecraft/mc-mods/dimensional-dungeons)
 - [x] [Discord Integration](https://modrinth.com/plugin/dcintegration) **Server**
 - [x] [Do a Barrel Roll](https://www.curseforge.com/minecraft/mc-mods/do-a-barrel-roll) **Optional**
-- [ ] [Doggy Talents Next](https://www.curseforge.com/minecraft/mc-mods/doggy-talents-next)
+- [x] [Doggy Talents Next](https://www.curseforge.com/minecraft/mc-mods/doggy-talents-next)
 - [x] [Domum Ornamentum](https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum)
 - [x] [Dungeons Enhanced](https://www.curseforge.com/minecraft/mc-mods/dungeonsenhanced)
 - [x] [Dynamic Electricity](https://www.curseforge.com/minecraft/mc-mods/dynamic-electricity)
@@ -74,11 +72,9 @@ Mods that have moved to NoeForged partially or fully
 - [x] [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium) **Client**
 - [x] [Embeddium (Rubidium) Extra](https://www.curseforge.com/minecraft/mc-mods/rubidium-extra) **Client**
 - [x] [Embeddium/Rubidium Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged)
-- [x] [[EMF] Entity Model Features [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-model-features) **Client**
 - [x] [Enchanting Infuser [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge)
 - [ ] [EpheroLib](https://www.curseforge.com/minecraft/mc-mods/epherolib)
 - [x] [Eternally Random](https://www.curseforge.com/minecraft/mc-mods/eternally-random)
-- [x] [[ETF] Entity Texture Features - [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric) **Client**
 - [ ] [Every Compat (Wood Good)](https://www.curseforge.com/minecraft/mc-mods/every-compat)
 - [x] [Exposure](https://www.curseforge.com/minecraft/mc-mods/exposure)
 - [x] [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors)
@@ -93,7 +89,7 @@ Mods that have moved to NoeForged partially or fully
 - [x] [ForgeEndertech](https://www.curseforge.com/minecraft/mc-mods/forgeendertech)
 - [x] [Forgematica](https://modrinth.com/mod/forgematica) **Client**, **Optional**
 - [x] [FramedBlocks](https://www.curseforge.com/minecraft/mc-mods/framedblocks)
-	
+
 # G
 - [x] [Global XP](https://www.curseforge.com/minecraft/mc-mods/global-xp)
 - [x] [Good Night's Sleep](https://www.curseforge.com/minecraft/mc-mods/good-nights-sleep)
@@ -106,15 +102,13 @@ Mods that have moved to NoeForged partially or fully
 
 # I
 - [x] [Icarus](https://www.curseforge.com/minecraft/mc-mods/icarus/relations/dependencies)
-- [x] [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
-- [x] [Ice and Fire: Dragonseeker](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragonseeker)
 - [x] [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
 
 # J
 - [x] [Jade](https://www.curseforge.com/minecraft/mc-mods/jade)
 - [x] [Jade Addons (Forge](https://www.curseforge.com/minecraft/mc-mods/jade-addons)
 - [x] [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei)
-	
+
 # K
 - [x] [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs)
 
@@ -126,12 +120,12 @@ Mods that have moved to NoeForged partially or fully
 
 # M
 - [ ] [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
-- [ ] [Macaw's Doors](https://www.curseforge.com/minecraft/mc-mods/macaws-doors)
+- [x] [Macaw's Doors](https://www.curseforge.com/minecraft/mc-mods/macaws-doors)
 - [ ] [Macaw's Fences and Walls](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls)
 - [ ] [Macaw's Lights and Lamps](https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps)
-- [ ] [Macaw's Paths and Pavings](https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings)
+- [x] [Macaw's Paths and Pavings](https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings)
 - [ ] [Macaw's Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)
-- [ ] [Macaw's Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)
+- [x] [Macaw's Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)
 - [ ] [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
 - [x] [MaFgLib](https://modrinth.com/mod/mafglib) **Client**, **Required if Forgematica is enabled**
 - [x] [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
@@ -187,14 +181,15 @@ Mods that have moved to NoeForged partially or fully
 - [x] [Security Craft](https://www.curseforge.com/minecraft/mc-mods/security-craft)
 - [x] [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
 - [x] [Server Performance - Smooth Chunk Save[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save)
-- [ ] [Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear)
+- [x] [Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear)
 - [ ] [Silent Gems](https://www.curseforge.com/minecraft/mc-mods/silents-gems)
-- [ ] [Silent Lib](https://www.curseforge.com/minecraft/mc-mods/silent-lib)
+- [x] [Silent Lib](https://www.curseforge.com/minecraft/mc-mods/silent-lib)
 - [x] [Simple Planes (Forge)](https://www.curseforge.com/minecraft/mc-mods/simple-planes)
 - [x] [Simply Light](https://www.curseforge.com/minecraft/mc-mods/simply-light)
 - [x] [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
 - [x] [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)
 - [x] [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)
+- [x] [Starter Kit](https://www.curseforge.com/minecraft/mc-mods/starter-kit)
 - [x] [Straw Statues [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/straw-statues)
 - [x] [Structurize](https://www.curseforge.com/minecraft/mc-mods/structurize)
 - [x] [Structure Gel API](https://www.curseforge.com/minecraft/mc-mods/structure-gel-api)
@@ -203,7 +198,7 @@ Mods that have moved to NoeForged partially or fully
 - [x] [SuperMartijn642's Core Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)
 - [x] [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
 - [x] [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries)
-	
+
 # T
 - [ ] [Tab Stats](https://www.curseforge.com/minecraft/mc-mods/tab-stats)
 - [x] [Tempad](https://www.curseforge.com/minecraft/mc-mods/tempad)

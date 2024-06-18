@@ -19,7 +19,6 @@
 - [ ] [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
 - [ ] [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api) **Client at the moment as only Light Overlay uses it**
 - [ ] [Athena](https://www.curseforge.com/minecraft/mc-mods/athena)
-- [ ] [Aquaculture 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
 
 # B
 - [ ] [Bad Wither No Cookie - Reloaded](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded) **Client**
@@ -30,7 +29,6 @@
 - [ ] [Beutified Chat [Server]](https://www.curseforge.com/minecraft/mc-mods/beautified-chat-server) **Server**
 - [ ] [Blahaj Expanded](https://modrinth.com/mod/mcr_blahaj)
 - [ ] [BlockUI](https://www.curseforge.com/minecraft/mc-mods/blockui)
-- [ ] [BlueMap](https://www.curseforge.com/minecraft/mc-mods/bluemap) **Server**
 - [ ] [Blue Skies](https://www.curseforge.com/minecraft/mc-mods/blue-skies)
 	- Structure Gel API
 - [ ] [Botarium](https://www.curseforge.com/minecraft/mc-mods/botarium)
@@ -95,13 +93,10 @@
 - [ ] [Embeddium (Rubidium) Extra](https://www.curseforge.com/minecraft/mc-mods/rubidium-extra) **Client**
 	- Embeddium
 - [ ] [Embeddium/Rubidium Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged)
-- [ ] [[EMF] Entity Model Features [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-model-features) **Client**
-  - ETF
 - [ ] [Enchanting Infuser [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge)
 	- Puzzles Lib
 - [ ] [EpheroLib](https://www.curseforge.com/minecraft/mc-mods/epherolib)
 - [ ] [Eternally Random](https://www.curseforge.com/minecraft/mc-mods/eternally-random)
-- [ ] [[ETF] Entity Texture Features - [Fabric & Forge]](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric) **Client**
 - [ ] [Every Compat (Wood Good)](https://www.curseforge.com/minecraft/mc-mods/every-compat)
 	- Moonlight Lib
 - [ ] [Exposure](https://www.curseforge.com/minecraft/mc-mods/exposure)
@@ -140,9 +135,6 @@
 	- Curios API
 	- Common Network
 	- Caelus
-- [ ] [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
-	- Citadel
-- [ ] [Ice and Fire: Dragonseeker](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragonseeker)
 - [ ] [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
 
 # K
@@ -259,6 +251,8 @@
   - Sophisticated Core
 - [ ] [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)
 - [ ] [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)
+- [ ] [Starter Kit](https://www.curseforge.com/minecraft/mc-mods/starter-kit)
+	- Collective
 - [ ] [Straw Statues [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/straw-statues)
 	- Puzzles Lib
 - [ ] [Structurize](https://www.curseforge.com/minecraft/mc-mods/structurize)

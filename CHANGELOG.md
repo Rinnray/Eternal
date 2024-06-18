@@ -1,5 +1,68 @@
 # Changelog
 
+## 5.0.0
+
+### Updated
+
+- Cooking for Blockheads
+- Amendments
+- Resourceful Lib
+- Structurize
+- Mekanism Generators
+- Chat Heads
+- Advanced Chimensy
+- Embeddium
+- Macaw's Trapdoors
+- Balm
+- Zeta
+- Icarus
+- MineColonies
+- Tom's Simple Storage Mod
+- Macaw's paths and Pavings
+- CC: Tweaked
+- Curios API
+- Collective
+- Quark
+- LittleTiles
+- ForgeEndertech
+- Doggy Talents Next
+- Jade
+- Supplementaries
+- TownTalk
+- Mekanism
+- Security Craft
+- Every Compat
+- Just Enough Items
+- Realistic Horse Genetics
+- Moonlight Lib
+- CreativeCore
+- WATERMeDIA
+- AmbientSounds 5
+- Puzzles Lib
+- FramedBlocks
+- Macaw's Doors
+- Placebo
+- Forgematica
+- Not Enough Animations
+- 3D Skin Layers
+- MaFgLib
+- First-person Model
+
+### Added
+
+- Starter Kit
+
+### Removed
+
+- Aquaculture 2
+- Ice and Fire
+- Ice and Fire: Dragonseeker
+- Entity Model Features
+- Entity Texture Features
+- BlueMap (Temp)
+
+---
+
 ## 4.9.0
 
 ### Updated

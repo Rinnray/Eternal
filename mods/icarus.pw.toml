@@ -1,13 +1,13 @@
 name = "Icarus"
-filename = "Icarus-NeoForge-2.7.2-beta.1.jar"
+filename = "Icarus-NeoForge-2.9.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "aa0bb3be8feb852deda664d0c98b23779110e508"
+hash = "9f109e664873c5966739815cdd34f9bcd8f6ea19"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5322384
+file-id = 5417917
 project-id = 428151

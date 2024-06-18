@@ -1,18 +1,17 @@
 name = "First-person Model"
-filename = "firstperson-forge-2.3.4-mc1.20.1.jar"
+filename = "firstperson-forge-2.4.3-mc1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/H5XMjpHi/versions/lAVzC1ft/firstperson-forge-2.3.4-mc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/H5XMjpHi/versions/iFHNhuRi/firstperson-forge-2.4.3-mc1.20.1.jar"
 hash-format = "sha1"
-hash = "6569c9ae1dc7e4563739eae3a3474153548e2024"
+hash = "8c09a959ecc30fc1719b3e19124f6d59e5040e91"
 
 [update]
 [update.modrinth]
 mod-id = "H5XMjpHi"
-version = "lAVzC1ft"
+version = "iFHNhuRi"
 
 [option]
 optional = true
 description = "SITTING ON MODDED CHAIRS/MOUNTS DOESN'T LOOK RIGHT!         Enables the third-person Model in first-person, so you can experience Minecraft from Steve's real perspective."
-
