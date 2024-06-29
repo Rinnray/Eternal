@@ -1,0 +1,13 @@
+name = "TARDIS Refined"
+filename = "tardis_refined-1.20.1-2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nqVt6aES/versions/rpoDc5vz/tardis_refined-1.20.1-2.0.3.jar"
+hash-format = "sha1"
+hash = "271cb9956482c07699e0c8ae7591977e95c34a1b"
+
+[update]
+[update.modrinth]
+mod-id = "nqVt6aES"
+version = "rpoDc5vz"

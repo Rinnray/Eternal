@@ -46,6 +46,7 @@ Mods that have moved to NoeForged partially or fully
 - [x] [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) **Client**
 - [x] [Cooking for Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
 - [x] [CoroUtil](https://www.curseforge.com/minecraft/mc-mods/coroutil)
+- [x] [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
 - [x] [Create](https://www.curseforge.com/minecraft/mc-mods/create)
 - [x] [Create Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/createaddition)
 - [x] [Create: Misc & Things](https://www.curseforge.com/minecraft/mc-mods/create-misc-and-things)
@@ -180,7 +181,6 @@ Mods that have moved to NoeForged partially or fully
 # S
 - [x] [Searchables](https://www.curseforge.com/minecraft/mc-mods/searchables) **Client**
 - [x] [Security Craft](https://www.curseforge.com/minecraft/mc-mods/security-craft)
-- [x] [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
 - [x] [Server Performance - Smooth Chunk Save[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save)
 - [x] [Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear)
 - [ ] [Silent Gems](https://www.curseforge.com/minecraft/mc-mods/silents-gems)
@@ -202,6 +202,7 @@ Mods that have moved to NoeForged partially or fully
 
 # T
 - [ ] [Tab Stats](https://www.curseforge.com/minecraft/mc-mods/tab-stats)
+- [x] [Tardis Refined](https://modrinth.com/mod/tardis-refined)
 - [x] [Tempad](https://www.curseforge.com/minecraft/mc-mods/tempad)
 - [x] [TerraBlender](https://www.curseforge.com/minecraft/mc-mods/terrablender)
 - [x] [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)

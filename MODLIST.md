@@ -58,6 +58,7 @@
 - [ ] [Cooking for Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
 	- Balm
 - [ ] [CoroUtil](https://www.curseforge.com/minecraft/mc-mods/coroutil)
+- [ ] [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
 - [ ] [Create](https://www.curseforge.com/minecraft/mc-mods/create)
 - [ ] [Create Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/createaddition)
 	- Create
@@ -240,7 +241,6 @@
 # S
 - [ ] [Searchables](https://www.curseforge.com/minecraft/mc-mods/searchables) **Client**
 - [ ] [Security Craft](https://www.curseforge.com/minecraft/mc-mods/security-craft)
-- [ ] [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
 - [ ] [Server Performance - Smooth Chunk Save[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save)
 - [ ] [Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear)
 	- Silent Lib
@@ -271,6 +271,7 @@
 
 # T
 - [ ] [Tab Stats](https://www.curseforge.com/minecraft/mc-mods/tab-stats)
+- [ ] [Tardis Refined](https://modrinth.com/mod/tardis-refined)
 - [ ] [Tempad](https://www.curseforge.com/minecraft/mc-mods/tempad)
 	- Resourceful Config
 	- Resourceful Lib

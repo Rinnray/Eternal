@@ -1,5 +1,47 @@
 # Changelog
 
+## 5.0.1
+
+### Updated
+
+- Collective
+- Structurize
+- The Twilight Forest
+- MineColonies
+- Amendments
+- Beautified Chat
+- Ballistix
+- Every Compat
+- Advanced Chimneys
+- Cupboard
+- Domum Ornamentum
+- Supplementaries
+- Just Enough Items
+- Balm
+- Starter Kit
+- Doggy Talents next
+- WATERMeDIA
+- Macaw's Lights and Lamps
+- Embeddium
+- Exposure
+- Macaw's Fences and Walls
+- Silent Gear
+- Moonlight Lib
+- Puzzles Lib
+- Electrodynamics
+- Nuclear Science
+
+### Removed
+
+- Serene Seasons
+
+### Added
+
+- Cosmetic Armor Reworked
+- Tardis Refined
+
+---
+
 ## 5.0.0
 
 ### Updated

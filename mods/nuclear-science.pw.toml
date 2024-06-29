@@ -1,13 +1,13 @@
 name = "Nuclear Science"
-filename = "Nuclear_Science-1.20.1-0.6.0-2.jar"
+filename = "Nuclear Science-1.20.1-0.6.0-3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "149185410c4ec5b074215b3b819ebe67c5c17289"
+hash = "f4e6eda121e554ff830dddd6c6f029917f8250a9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5022908
+file-id = 5446494
 project-id = 318646
